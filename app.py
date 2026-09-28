@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 PRIMARY = "#1F5C99"
-NAVY = "#0A2342"
+NAVY = "#E67E22"
 AMBER = "#E8A838"
 GREEN = "#2E7D32"
 RED = "#C0392B"
@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>Mustafa Yaman - 2021232074 - +90 530 395 9851</p>
 </div>
 """, unsafe_allow_html=True)
 
